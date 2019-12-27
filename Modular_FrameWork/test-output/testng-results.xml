@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35409" started-at="2019-12-27T10:20:44Z" finished-at="2019-12-27T10:21:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35409" started-at="2019-12-27T10:20:44Z" finished-at="2019-12-27T10:21:20Z">
+      <class name="demo_scripts.Calling_Scripts">
+        <test-method status="PASS" signature="Call_All_Scripts()[pri:0, instance:demo_scripts.Calling_Scripts@25641d39]" name="Call_All_Scripts" duration-ms="35372" started-at="2019-12-27T15:50:44Z" finished-at="2019-12-27T15:51:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Call_All_Scripts -->
+      </class> <!-- demo_scripts.Calling_Scripts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
